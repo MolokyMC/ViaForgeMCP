@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/resources/viamcp_res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/minecraft_src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/viamcp_src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/run/resourcepacks" />
+      <excludeFolder url="file://$MODULE_DIR$/run/saves/New World/DIM-1" />
+      <excludeFolder url="file://$MODULE_DIR$/run/saves/New World/DIM1" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

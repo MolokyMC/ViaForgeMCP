@@ -24,4 +24,5 @@ bin/
 
 *.DS_Store
 
-run/
+/run/
+/.idea/
