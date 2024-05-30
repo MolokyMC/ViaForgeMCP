@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="minecraft_libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libraries/minecraft_libs" />
+      <root url="file://$PROJECT_DIR$/libraries/viamcp_libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libraries/minecraft_libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libraries/viamcp_libs" recursive="false" />
+  </library>
+</component>

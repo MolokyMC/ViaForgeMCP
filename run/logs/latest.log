@@ -1,0 +1,30 @@
+[23:18:19] [Client thread/INFO]: Setting user: Player164
+[23:18:19] [Client thread/INFO]: (Session ID is token:0:Player164)
+[23:18:19] [Client thread/INFO]: LWJGL Version: 2.9.4
+[23:18:20] [Client thread/INFO]: Reloading ResourceManager: Default
+[23:18:20] [Client thread/ERROR]: Couldn't initialize twitch stream
+[23:18:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:18:20] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[23:18:20] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:18:20] [Thread-6/INFO]: OpenAL initialized.
+[23:18:21] [Sound Library Loader/INFO]: Sound engine started
+[23:18:21] [Client thread/INFO]: Created: 512x512 textures-atlas
+[23:18:30] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[23:18:30] [Server thread/INFO]: Generating keypair
+[23:18:30] [Server thread/INFO]: Preparing start region for level 0
+[23:18:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:18:30] [Server thread/INFO]: Player164[local:E:427d6a2f] logged in with entity id 412 at (-223.15133003002072, 71.0, 232.48481485293837)
+[23:18:30] [Server thread/INFO]: Player164 joined the game
+[23:20:14] [Server thread/INFO]: Saving and pausing game...
+[23:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:20:14] [Client thread/INFO]: Stopping!
+[23:20:14] [Client thread/INFO]: SoundSystem shutting down...
+[23:20:14] [Server thread/INFO]: Stopping server
+[23:20:14] [Server thread/INFO]: Saving players
+[23:20:14] [Server thread/INFO]: Saving worlds
+[23:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:20:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
