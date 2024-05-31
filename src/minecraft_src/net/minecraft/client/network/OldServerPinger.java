@@ -58,16 +58,18 @@ public class OldServerPinger
 
     public void ping(final ServerData server) throws UnknownHostException
     {
-        serverData = server;
+        serverData = server; // ViaForgeMCP
 
         ServerAddress serveraddress = ServerAddress.fromString(server.serverIP);
 
+        // ViaForgeMCP
         ProtocolVersion version = ((ExtendedServerData) serverData).getVersion();
         if (version == null) {
             version = ViaMCPCommon.getManager().getTargetVersion();
         }
         VersionTracker.storeServerProtocolVersion(InetAddress.getByName(serveraddress.getIP()), version);
         serverData = null;
+        // End
 
         final NetworkManager networkmanager = NetworkManager.createNetworkManagerAndConnect(InetAddress.getByName(serveraddress.getIP()), serveraddress.getPort(), false);
         this.pingDestinations.add(networkmanager);
