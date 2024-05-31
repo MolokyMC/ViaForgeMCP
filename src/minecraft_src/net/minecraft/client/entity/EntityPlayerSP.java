@@ -290,6 +290,7 @@ public class EntityPlayerSP extends AbstractClientPlayer
                 this.lastReportedPitch = this.rotationPitch;
             }
         }
+        prevOnGround = this.onGround;
     }
 
     /**
